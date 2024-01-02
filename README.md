@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdul-Wahab-dev
-- 👀 I’m interested in Backend Node js
-- 🌱 I’m currently working in Mern stack
-- 💞️ I’m looking to collaborate on Node js projects
+- 🌱 I’m currently working as Full Stack Developer
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me mail: abdulwahabdev0@gmail.com
 
 <!---
