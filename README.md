@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abdul-Wahab-dev
 - 🌱 I’m working as Full Stack Developer
-- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me mail: abdulwahabdev0@gmail.com
 
 <!---
